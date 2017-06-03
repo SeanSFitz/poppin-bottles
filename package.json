@@ -1,0 +1,25 @@
+{
+  "name": "poppin-bottles",
+  "version": "1.0.0",
+  "description": "LHL Day 5 Stretch Exercise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSFitz/poppin-bottles.git"
+  },
+  "author": "Sean Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSFitz/poppin-bottles/issues"
+  },
+  "homepage": "https://github.com/SeanSFitz/poppin-bottles#readme"
+}
